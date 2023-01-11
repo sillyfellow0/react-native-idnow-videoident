@@ -15,7 +15,7 @@
     },
     "dependencies": {
         "@tokenstreet/react-native-idnow-videoident": "file:../..",
-        "expo": "~47.0.8",
+        "expo": "~47.0.12",
         "expo-build-properties": "~0.4.1",
         "expo-splash-screen": "~0.17.5",
         "expo-status-bar": "~1.4.2",
@@ -25,7 +25,7 @@
         "react-native-web": "~0.18.10"
     },
     "devDependencies": {
-        "@babel/core": "^7.20.5",
+        "@babel/core": "^7.20.12",
         "@types/react": "^18.0.25",
         "@types/react-test-renderer": "^18.0.0",
         "babel-plugin-module-resolver": "^4.1.0",
